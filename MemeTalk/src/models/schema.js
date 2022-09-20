@@ -101,8 +101,8 @@ export const schema = {
                     "isRequired": true,
                     "attributes": []
                 },
-                "newMessage": {
-                    "name": "newMessage",
+                "newMessages": {
+                    "name": "newMessages",
                     "isArray": false,
                     "type": "Int",
                     "isRequired": false,
@@ -216,8 +216,8 @@ export const schema = {
                     "isRequired": true,
                     "attributes": []
                 },
-                "imageUrl": {
-                    "name": "imageUrl",
+                "imageUri": {
+                    "name": "imageUri",
                     "isArray": false,
                     "type": "String",
                     "isRequired": false,
@@ -383,5 +383,5 @@ export const schema = {
     },
     "enums": {},
     "nonModels": {},
-    "version": "4c20da38e487d211b72a20bb8d583c54"
+    "version": "2cc477d645c013dd316343f0df268647"
 };
