@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-memetalk-staging-142549-authRole",
+      "UnauthRoleArn": "arn:aws:iam::499622857069:role/amplify-memetalk-staging-142549-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::499622857069:role/amplify-memetalk-staging-142549-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-memetalk-staging-142549-deployment",
+      "UnauthRoleName": "amplify-memetalk-staging-142549-unauthRole",
+      "StackName": "amplify-memetalk-staging-142549",
+      "StackId": "arn:aws:cloudformation:us-east-1:499622857069:stack/amplify-memetalk-staging-142549/f55cb640-3826-11ed-bf56-0ae1d729b9a9",
+      "AmplifyAppId": "d34wf65433wyav"
+    },
+    "categories": {
+      "auth": {
+        "MemeTalk": {}
+      }
+    }
+  }
+}
